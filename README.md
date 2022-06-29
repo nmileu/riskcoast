@@ -1,2 +1,2 @@
 # RiskCoast
-A responsive sidebar for [Leaflet](http://leafletjs.com/). A fork of [sidebar-v2](http://turbo87.github.io/sidebar-v2) that only contains the necessary ingredients for use in Leaflet and provides enhanced functionality.
+The RISKCOAST project focuses its work on the development of innovative tools, methodologies and solutions focused on the prevention and management of geological risks on the coast in a more effective way. The products obtained will support the 3 phases of emergency management: prevention, response and rehabilitation. RISKCOAST will establish a transnational cooperation network to deal commonly with the geological risks of the SUDOE coastal territory.
